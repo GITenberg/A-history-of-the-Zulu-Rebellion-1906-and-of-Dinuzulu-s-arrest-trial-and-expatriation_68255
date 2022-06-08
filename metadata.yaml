@@ -1,0 +1,28 @@
+_repo: A-history-of-the-Zulu-Rebellion-1906-and-of-Dinuzulu-s-arrest-trial-and-expatriation_68255
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stuart, J.
+    gutenberg_agent_id: '54677'
+    url: http://www.gutenberg.org/2009/agents/54677
+description: ''
+gutenberg_issued: '2022-06-06'
+identifiers:
+  gutenberg: '68255'
+language: en
+pgterms:marc904: https://archive.org/details/historyofzulureb00stua
+pgterms:marc905: 20200710211057stuart
+pgterms:marc906: '1913'
+pgterms:marc907: GB
+production_note: Charlene Taylor, Graeme Mackreth and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United Kingdom :MacMillan and Co., Limited,1913.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A history of the Zulu Rebellion, 1906: and of Dinuzulu''s arrest, trial, and
+  expatriation'
+url: http://www.gutenberg.org/ebooks/68255
