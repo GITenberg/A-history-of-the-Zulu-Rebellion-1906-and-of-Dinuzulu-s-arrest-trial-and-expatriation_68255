@@ -1,11 +1,16 @@
 _repo: A-history-of-the-Zulu-Rebellion-1906-and-of-Dinuzulu-s-arrest-trial-and-expatriation_68255
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68255-h/images/cover.jpg
 creator:
   author:
     agent_name: Stuart, J.
     gutenberg_agent_id: '54677'
     url: http://www.gutenberg.org/2009/agents/54677
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68255#A-history-of-the-Zulu-Rebellion-1906-and-of-Dinuzulu-s-arrest-trial-and-expatriation
 gutenberg_issued: '2022-06-06'
 identifiers:
   gutenberg: '68255'
